@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="01/09/21||16:41:13" using="Simscape Multibody Link Version 5.1" from="SolidWorks 28.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="MONTAGEMROBO" uid="MONTAGEMROBO" version="1223">
+<AssemblyFile name="MONTAGEMROBO.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Garrafas-1" uid="Garrafas-1" entityUid="Garrafas*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 0 0 0 0 -1 0 1.0000000000000002 0</Rotation>
+<Translation>-0.12019882765271007 2.727969776876872 0.9636831247452321</Translation>
+</Transform>
+</Instance>
+<Instance name="PALLET.MONTADO-1" uid="PALLET.MONTADO-1" entityUid="PALLET.MONTADO*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.5 -2.5 0.010500000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="Garrafas-3" uid="Garrafas-3" entityUid="Garrafas*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 0 0 0 0 -1 0 1.0000000000000002 0</Rotation>
+<Translation>-0.12019882765271007 3.727969776876872 0.9636831247452321</Translation>
+</Transform>
+</Instance>
+<Instance name="Garrafas-2" uid="Garrafas-2" entityUid="Garrafas*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 0 0 0 0 -1 0 1.0000000000000002 0</Rotation>
+<Translation>-0.12019882765271007 3.227969776876872 0.9636831247452321</Translation>
+</Transform>
+</Instance>
+<Instance name="Garrafas-4" uid="Garrafas-4" entityUid="Garrafas*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 0 0 0 0 -1 0 1.0000000000000002 0</Rotation>
+<Translation>-0.12019882765271007 4.227969776876872 0.9636831247452321</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[34]-1" uid="KR90_R3700_K_prime.stp[34]-1" entityUid="KR90_R3700_K_prime.stp[34]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[52]-1" uid="KR90_R3700_K_prime.stp[52]-1" entityUid="KR90_R3700_K_prime.stp[52]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.3500000000000005 4.9067081490969711e-15 -1.3499999999999996</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[47]-1" uid="KR90_R3700_K_prime.stp[47]-1" entityUid="KR90_R3700_K_prime.stp[47]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.3500000000000005 -7.0221516153279392e-14 -1.3499999999999395</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[97]-1" uid="KR90_R3700_K_prime.stp[97]-1" entityUid="KR90_R3700_K_prime.stp[97]*:*Valor predeterminado">
+<Transform>
+<Rotation>0 0 0.99999999999999989 -1.2955196955234756e-16 1 0 -1 -1.656186351369704e-16 0</Rotation>
+<Translation>0.16 5.0890887970269728e-15 1.3400000000000003</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[95]-1" uid="KR90_R3700_K_prime.stp[95]-1" grounded="true" entityUid="KR90_R3700_K_prime.stp[95]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[46]-1" uid="KR90_R3700_K_prime.stp[46]-1" entityUid="KR90_R3700_K_prime.stp[46]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.3499999999999996 -7.0221606307541151e-14 -1.3499999999999344</Translation>
+</Transform>
+</Instance>
+<Instance name="KR90_R3700_K_prime.stp[87]-1" uid="KR90_R3700_K_prime.stp[87]-1" entityUid="KR90_R3700_K_prime.stp[87]*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.3499999999999919 -9.0387391515788426e-14 -1.3499999999998797</Translation>
+</Transform>
+</Instance>
+<Instance name="ferramenta-1" uid="ferramenta-1" entityUid="ferramenta*:*Valor predeterminado">
+<Transform>
+<Rotation>0 2.0469737016526324e-16 -1 -1 0 0 0 1 2.0469737016526324e-16</Rotation>
+<Translation>4.3928197768768733 0.12019882765264107 0.60504173973168107</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<UnknownConstraint name="Coincidente1">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[95]-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>MONTAGEMROBO</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincidente3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[95]-1</Uid>
+</InstancePath>
+<Position>0 0.21199999999999999 0.22559999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[34]-1</Uid>
+</InstancePath>
+<Position>0 0 0.22559999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[95]-1</Uid>
+</InstancePath>
+<Position>0 0 0.22559999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[34]-1</Uid>
+</InstancePath>
+<Position>0 0 0.22559999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concêntrico2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[34]-1</Uid>
+</InstancePath>
+<Position>0.75 0.02 0.58999999999999997</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[97]-1</Uid>
+</InstancePath>
+<Position>0.75 0.0050000000000003306 0.58999999999999986</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[34]-1</Uid>
+</InstancePath>
+<Position>0.379869351983947 0.0050000000000114102 0.32000000000000001</Position>
+<Axis>-1.6373694973549501e-14 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[97]-1</Uid>
+</InstancePath>
+<Position>0.75 0.0050000000000003306 0.58999999999999986</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[52]-1</Uid>
+</InstancePath>
+<Position>0.75 -0.17799999999999999 1.9399999999999999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[97]-1</Uid>
+</InstancePath>
+<Position>0.75 -0.17799999999999991 1.9399999999999993</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[52]-1</Uid>
+</InstancePath>
+<Position>0.75 -0.17799999999999999 1.9399999999999999</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[97]-1</Uid>
+</InstancePath>
+<Position>0.34999999999999987 -0.17799999999999988 2.4321284189108789</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[47]-1</Uid>
+</InstancePath>
+<Position>2.1055000000000001 6.1881846707161692e-16 1.899</Position>
+<Axis>1 -1.7763568394002501e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[52]-1</Uid>
+</InstancePath>
+<Position>2.1055000000000001 -6.8431371680333099e-14 1.89900000000006</Position>
+<Axis>1 -1.7763568394002501e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[47]-1</Uid>
+</InstancePath>
+<Position>2.1055000000000001 -1.1013412404281634e-15 1.899</Position>
+<Axis>-1 1.5030445077300599e-14 -1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[52]-1</Uid>
+</InstancePath>
+<Position>2.1055000000000001 -1.1013412404281602e-15 1.899</Position>
+<Axis>1 -1.5030445077300599e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[46]-1</Uid>
+</InstancePath>
+<Position>2.3500000000000001 0.044499999999999998 1.899</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[47]-1</Uid>
+</InstancePath>
+<Position>2.3500000000000001 0.044499999999999998 1.899</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[46]-1</Uid>
+</InstancePath>
+<Position>2.3500000000000001 0.044499999999999998 1.899</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[47]-1</Uid>
+</InstancePath>
+<Position>2.3500000000000001 0.044499999999999998 1.899</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[46]-1</Uid>
+</InstancePath>
+<Position>2.5379999999999998 1.4876962249640587e-16 1.899</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[87]-1</Uid>
+</InstancePath>
+<Position>2.4855 1.0881724398276931e-15 1.899</Position>
+<Axis>1 -1.2509555207043802e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[46]-1</Uid>
+</InstancePath>
+<Position>2.5379999999999998 1.4876962249640587e-16 1.899</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[87]-1</Uid>
+</InstancePath>
+<Position>2.5380000000000003 0 1.899</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[87]-1</Uid>
+</InstancePath>
+<Position>2.5650000000000004 -0.049497474683058401 1.9484974746830601</Position>
+<Axis>1 -1.5030445077300599e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>ferramenta-1</Uid>
+</InstancePath>
+<Position>0.16969630233576877 -0.0065442650485563192 0.47781977687687327</Position>
+<Axis>-1.5030445077300605e-14 -1.4315433519303001e-14 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR90_R3700_K_prime.stp[87]-1</Uid>
+</InstancePath>
+<Position>2.4855 1.0881724398276931e-15 1.899</Position>
+<Axis>1 -1.2688263138573201e-14 1.4315433519303001e-14</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>ferramenta-1</Uid>
+</InstancePath>
+<Position>0.12019882765271048 -0.056041739731616413 0.67580967560910477</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente22">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>PALLET.MONTADO-1</Uid>
+</InstancePath>
+<Position>0 0 -0.010500000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>MONTAGEMROBO</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distância3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>PALLET.MONTADO-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>MONTAGEMROBO</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distância6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>PALLET.MONTADO-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 1.0000000000000001e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>MONTAGEMROBO</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Garrafas" uid="Garrafas*:*Valor predeterminado" version="338">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Garrafas.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.9030037117808476</Mass>
+<CenterOfMass>0.1214963105251817 -0.037742965573222716 0.22844110658113581</CenterOfMass>
+<Inertia>0.17108953192430063 0.23614375499017054 0.22649135329485112 -4.5962423720603307e-05 6.327962098774693e-05 -0.00012652599023032501</Inertia>
+</MassProperties>
+<GeometryFile name="Garrafas_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[34]" uid="KR90_R3700_K_prime.stp[34]*:*Valor predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[34].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>346.81728544500555</Mass>
+<CenterOfMass>0.17372523924258909 0.037721604562676418 0.47797366966663402</CenterOfMass>
+<Inertia>11.08696872055501 37.870487004244517 35.384870556616214 -0.88683744440910339 -5.3878661847404388 -3.3916726676146691</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[34]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[46]" uid="KR90_R3700_K_prime.stp[46]*:*Valor predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[46].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>27.615226382596216</Mass>
+<CenterOfMass>2.3967092859270496 0.02399368635239249 1.8989423735988429</CenterOfMass>
+<Inertia>0.26923431136983839 0.22282616999513633 0.37601293833911964 0.00010881060469950928 0.0001167633121316839 0.043322885789760554</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[46]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[47]" uid="KR90_R3700_K_prime.stp[47]*:*Valor predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[47].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>10.768835263254825</Mass>
+<CenterOfMass>2.2335295730645992 0.0014315066052098843 1.8989997937092515</CenterOfMass>
+<Inertia>0.026683290021463833 0.11156373967666026 0.10998324076513043 4.1868988815217361e-07 1.8410531061530795e-07 -0.002509371504778007</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[47]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[52]" uid="KR90_R3700_K_prime.stp[52]*:*Valor predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[52].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>243.34093742258707</Mass>
+<CenterOfMass>1.199466802991884 -0.018297689023976424 1.9112880008783055</CenterOfMass>
+<Inertia>2.4010575422780898 48.356687970017894 47.887199515364813 0.11970543839367791 1.1501046879274013 -1.6404468956898106</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[52]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[87]" uid="KR90_R3700_K_prime.stp[87]*:*Valor predeterminado" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[87].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.1839640460658245</Mass>
+<CenterOfMass>2.550419917820876 0 1.8992162110070645</CenterOfMass>
+<Inertia>0.0030107741587272942 0.0015787606743326548 0.00156281689266575 0 1.1276093076069565e-06 0</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[87]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[95]" uid="KR90_R3700_K_prime.stp[95]*:*Valor predeterminado" version="113">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[95].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>207.61613245995753</Mass>
+<CenterOfMass>-0.04679236667741439 -2.5015738254076864e-06 0.11180080869115785</CenterOfMass>
+<Inertia>6.4592666507223084 8.5512037868050825 13.154214860009059 -0.0015549134701376137 0.4226712143627997 -0.00072792974314039914</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[95]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR90_R3700_K_prime.stp[97]" uid="KR90_R3700_K_prime.stp[97]*:*Valor predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR90_R3700_K_prime.stp[97].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>366.65763082263487</Mass>
+<CenterOfMass>0.75603445446144857 -0.24673527483075483 1.1151990779957512</CenterOfMass>
+<Inertia>78.853432935497352 78.037419910792536 6.7083869936292633 7.303510887560555 -0.12338968639675993 0.039949306772378276</Inertia>
+</MassProperties>
+<GeometryFile name="KR90_R3700_K_prime.stp[97]_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Diffuse r="0.59215686274509804" g="0.61960784313725492" b="0.65098039215686276" a="1"/>
+<Specular r="0.29607843137254902" g="0.30980392156862746" b="0.32549019607843138" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="PALLET.MONTADO" uid="PALLET.MONTADO*:*Valor predeterminado" version="133">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="PALLET.MONTADO.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>54.175874999999991</Mass>
+<CenterOfMass>0 0.00055236763596341822 0.071001751240750227</CenterOfMass>
+<Inertia>7.9041950204823417 6.0845009500838465 13.756785956335994 -0.0013764975941190291 -1.9963734602166483e-15 0</Inertia>
+</MassProperties>
+<GeometryFile name="PALLET.MONTADO_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ferramenta" uid="ferramenta*:*Valor predeterminado" version="185">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ferramenta.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.2183992716966814</Mass>
+<CenterOfMass>0.12077650852867509 -0.056130421225891416 0.41075354209065035</CenterOfMass>
+<Inertia>0.0087477005431415913 0.054274831026930502 0.04817166878283187 -1.5953997234826918e-06 1.1496131261942066e-05 2.7721560497905156e-05</Inertia>
+</MassProperties>
+<GeometryFile name="ferramenta_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

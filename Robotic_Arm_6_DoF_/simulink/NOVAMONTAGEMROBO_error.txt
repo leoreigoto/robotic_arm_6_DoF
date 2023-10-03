@@ -1,0 +1,64 @@
+Constrained Instances: 'KR90_R3700_K_prime.stp[95]-1', 'MONTAGEMROBO'
+Constraint Name: Coincidente1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ferramenta-1', 'Garrafas-5'
+Constraint Name: Paralelo1
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ferramenta-1', 'Garrafas-5'
+Constraint Name: Coincidente26
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'ferramenta-1', 'Garrafas-5'
+Constraint Name: Coincidente27
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-6'
+Constraint Name: Coincidente28
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-6'
+Constraint Name: Coincidente29
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-6'
+Constraint Name: Coincidente30
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-7'
+Constraint Name: Coincidente31
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-7'
+Constraint Name: Coincidente32
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'PALLET.MONTADO-1', 'Garrafas-7'
+Constraint Name: Coincidente33
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-6', 'Garrafas-8'
+Constraint Name: Coincidente34
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-6', 'Garrafas-8'
+Constraint Name: Coincidente35
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-6', 'Garrafas-8'
+Constraint Name: Coincidente36
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-7', 'Garrafas-9'
+Constraint Name: Coincidente37
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-7', 'Garrafas-9'
+Constraint Name: Coincidente38
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Garrafas-7', 'Garrafas-9'
+Constraint Name: Coincidente39
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
